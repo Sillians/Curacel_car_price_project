@@ -8,7 +8,7 @@ import pickle
 
 app = Flask(__name__)
 
-model = pickle.load(open("models/randomforestregressor/model.pkl", 'rb'))
+model = pickle.load(open("models/model.pkl", 'rb'))
 print('Loaded')
 
 features = pickle.load(open("features/featuresdata/features.pkl", 'rb'))
