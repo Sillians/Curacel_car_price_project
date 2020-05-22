@@ -1,13 +1,20 @@
-This project entails the use of machine learning in predicting car prices.
+This project entails the use of machine learning in predicting prices of Fairly Used Cars. This Project helps users get semi-accurate prediction of the prices of proposed cars or advice them to make price adjustments for existing ones.
 
 ##To try this project. 
 
 fork this repository and follow the steps below
 
-download the weight of the model from https://drive.google.com/drive/folders/18keCSBZiV3WlCnsMPdL9pDt0e8grNiCV?usp=sharing
+Download the weight of the model from https://drive.google.com/drive/folders/18keCSBZiV3WlCnsMPdL9pDt0e8grNiCV?usp=sharing
 
-and create a folder named "model" inside the flaskapi folder. Put the download model inside this folder.
+and create a folder named "model" inside the flaskapi folder. Put the downloaded model inside this folder.
 
 open anaconda prompt on your pc (this is to avoid you creating a virtual environment from scratch)
 
 run the command below.
+
+cd into the flaskapi folder and run *python app.py*
+
+Here is the Link to the API 
+
+
+
