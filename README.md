@@ -14,7 +14,7 @@ run the command below.
 
 cd into the flaskapi folder and run *python app.py*
 
-Here is the Link to the API :  http://9e3bf3c1.ngrok.io -> http://localhost:2000 
+Here is the Link to the API :  http://9e3bf3c1.ngrok.io -> http://localhost:2000 (http://b8347718.ngrok.io -> http://localhost:2000 )
 
 Here is a Sample.json format for prediction which I used with Postman.
 
